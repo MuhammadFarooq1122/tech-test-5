@@ -1,0 +1,19 @@
+.brand-logo{
+	margin-left: 500px;
+}
+
+.maindiv{
+	display: flex;
+}
+ .carousel{
+ 	height: 50px;
+ 	width: 50px;
+ }
+ .card-content{
+ 	height: 200px;
+ }
+ .carosel{
+
+    height: 467px;
+    width: 306px;
+ }
